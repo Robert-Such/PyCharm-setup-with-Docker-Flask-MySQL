@@ -1,4 +1,4 @@
-# Project Description
+# PyCharm setup with Docker, Flask, & MySQL
 + This project is to demonstrate a basic Pycharm setup to get started with using Flask and MySQL.
 + Docker is being used to deliver Flask and MySQL from within their own individual containers.
 + Postman is being used to verfiy that requests are being properly handled.
